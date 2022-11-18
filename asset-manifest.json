@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/second-repository/static/css/main.232cabe6.css",
+    "main.js": "/second-repository/static/js/main.438ebdda.js",
+    "index.html": "/second-repository/index.html",
+    "main.232cabe6.css.map": "/second-repository/static/css/main.232cabe6.css.map",
+    "main.438ebdda.js.map": "/second-repository/static/js/main.438ebdda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.232cabe6.css",
+    "static/js/main.438ebdda.js"
+  ]
+}
